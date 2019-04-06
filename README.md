@@ -17,7 +17,8 @@ But now, there have been some speeches from foreign reactionary forces. So we ha
 实在是太可怕了，居然想要革命，这是严重破坏我国稳定团结的论调！他身处谷歌公司，但不去关注谷歌员工的劳动权益反而来关注我国的劳动权益（ http://tech.ifeng.com/a/20190128/45301157_0.shtml ），难道真的是国际主义心态？查找公开资料，没有证据显示这家伙来过中国，因此他对我国的印象大概就是西方媒体洗脑出来的，为什么他直接就想到要罢工要革命而不是要谈判妥善解决？这就是他对我国政府抱有敌意态度！  
 How terrible is this! He want a revolution??! These are speeches that will seriously undermines China’s stability and unity! Guido van Rossum is in the Google company, but he does not focus his attention to the human rights of Google employees (https://www.wired.com/story/google-employees-report-declining-confidence-leaders/ ). Instead, he is paying attention to China's human rights. Is he really an internationalist? There is no public report that this guy has visited China. So his impression of China is a brainwashed result of the Western media. Why did he directly think we must strike or revolution instead of negotiating and properly solving it? This is his hostility towards our government!
 
-996.ICU项目本身没什么好说的，但是要高度警惕这些人利用996.ICU传播反动造反言论破坏我国稳定。
+996.ICU项目本身没什么好说的，但是要高度警惕这些人利用996.ICU传播反动造反言论破坏我国稳定。  
+The 996.ICU project by itself has not much to blame, but it is these people who using the 996.ICU to spread reactionary rebellious remarks to undermine our stability that are to blame.
 
 
 # 我们是谁
@@ -30,6 +31,7 @@ We are a group of programmers with a sense of justice. It is really not easy to 
 Take a look at our recent boycott on illegal cheating software: https://github.com/boycott-fuck-xuexiqiangguo/Boycott-Fuck-XueXiQiangGuo After we reported abuse, the ArchLinux AUR repo has take down this illegal cheating software: https://aur.archlinux.org/packages/fuck-xuexiqiangguo/
 
 # 我们能做什么
+# what can we do
 
 借鉴996.ICU，我们也要起草个[Jvbao-LICENSE](jvbao-license)，凡是支持加星fuck-xuexiqiangguo那种违法作弊软件的，和gvanrossum这种蛊惑我们革命的都不能用我们正义人士的代码！正义人士都该添加我们的license！！  
 Drawing on 996.ICU, we have to draft a [Jvbao-LICENSE](jvbao-license), and any person that supports cheating software like the fuck-xuexiqiangguo, and persons like gvanrossum who want a revolution to happen in our country, cannot use the justice of our code! People with a sense of justice should add our license to their project! !
