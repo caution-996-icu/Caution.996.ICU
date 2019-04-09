@@ -12,10 +12,13 @@ But now, there have been some speeches from foreign reactionary forces. So we ha
 
 (The people have to force the government to change the law. If the government won't, strike. If they break the strike with police, start a revolution.)
   
-How terrible is this! He want a revolution??! These are speeches that will seriously undermines China’s stability and unity! Guido van Rossum is in the Google company, but he does not focus his attention to the human rights of Google employees (https://www.wired.com/story/google-employees-report-declining-confidence-leaders/ ). Instead, he is paying attention to China's human rights. Is he really an internationalist? There is no public report that this guy has visited China. So his impression of China is a brainwashed result of the Western media. Why did he directly think we must strike or revolution instead of negotiating and properly solving it? This is his hostility towards our government!
+How terrible is this! He want a revolution??! These are speeches that will seriously undermines China’s stability and unity! Guido van Rossum is in the Bay Area, but he does not focus his attention to the human rights of Bay Area’s Google employees (https://www.wired.com/story/google-employees-report-declining-confidence-leaders/ ). Instead, he is paying attention to China’s human rights. Is he really an internationalist? There is no public report that this guy had a deep understanding of China. So his impression of China is a brainwashed result of the Western media. Why did he directly think we must strike or revolution instead of negotiating and properly solving it? This is his hostility towards our government!
 
+The 996.ICU project by itself has not much to blame, but it is these people who using the 996.ICU to spread reactionary rebellious remarks to undermine our stability that are to blame. He had retweeted fake news comments, we reported and that twitter get deleted！After we debate with this guy, he blocked us!! We have to be careful, we have to boycott this guy!!!
 
-The 996.ICU project by itself has not much to blame, but it is these people who using the 996.ICU to spread reactionary rebellious remarks to undermine our stability that are to blame.
+![gvanrossum](guidoretweet.png)
+
+![gvanrossum](guidoblock.png)
 
 # who are we
   
